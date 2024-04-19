@@ -24,8 +24,7 @@ To run this project locally, follow these steps:
 2. Obtain an API key for GenerativeAI and save it in a file named key1.txt in the project directory.
 3. Run the Streamlit app
          streamlit run app.py
-
-4.Access the app in your web browser at http://localhost:8501.
+   4. Access the app in your web browser at http://localhost:8501.
 
 Usage
 Once the application is running, you can interact with the Data Science AI Tutor by typing messages in the text input field and clicking the "Send" button. The AI Tutor will respond with explanations, guidance, or solutions to your data science inquiries.
