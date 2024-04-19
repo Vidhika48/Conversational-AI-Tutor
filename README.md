@@ -27,12 +27,12 @@ To run this project locally, follow these steps:
 
 4. Access the app in your web browser at http://localhost:8501.
 
-Usage
+## Usage
 Once the application is running, you can interact with the Data Science AI Tutor by typing messages in the text input field and clicking the "Send" button. The AI Tutor will respond with explanations, guidance, or solutions to your data science inquiries.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-DEMO
+## DEMO
 ![Screenshot 2024-04-20 015605](https://github.com/Vidhika48/Conversational-AI-Tutor/assets/72344159/73ceff8b-b164-4a88-8d63-1c6fda0840ab)
 
