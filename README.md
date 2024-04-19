@@ -1,3 +1,4 @@
+![Screenshot 2024-04-20 015605](https://github.com/Vidhika48/Conversational-AI-Tutor/assets/72344159/01b74440-1e46-4db3-83d0-59f0b3455c2b)
 # Data Science AI Tutor
 
 This project is a Streamlit web application that leverages GenerativeAI to provide conversational AI tutoring in data science.
