@@ -24,6 +24,7 @@ To run this project locally, follow these steps:
 2. Obtain an API key for GenerativeAI and save it in a file named key1.txt in the project directory.
 3. Run the Streamlit app
          streamlit run app.py
+
 4.Access the app in your web browser at http://localhost:8501.
 
 Usage
